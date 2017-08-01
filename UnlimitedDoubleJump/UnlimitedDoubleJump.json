@@ -1,0 +1,12 @@
+{
+   "Files":[
+      {
+         "ComparisonString":"untyped\r\nglobal function BaseGametype_Init_MPSP",
+         "ReplacedCodeFile":"_base_gametype_sp.gnut",
+		 "Directory":"_base_gametype_sp"
+      }
+   ],
+   "Description":"This gives you unlimited doublejumps",
+   "Name":"UnlimitedDoubleJump",
+   "Directory":"UnlimitedDoubleJump"
+}
